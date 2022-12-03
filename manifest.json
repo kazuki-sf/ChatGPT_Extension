@@ -1,0 +1,24 @@
+{
+  "name": "ChatGPT Extension",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Use ChatGPT via Chrome Extension",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["popup.js"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "icons": {
+    "48": "48.png"
+  }
+}
