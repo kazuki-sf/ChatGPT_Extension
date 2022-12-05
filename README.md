@@ -1,6 +1,6 @@
 # ChatGPT Extension
 
-ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's [ChatGPT](https://chat.openai.com/chat) from anywhere on the web.
+ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's [ChatGPT](https://chat.openai.com/chat) from anywhere on the web. Chrome Extension is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb).
 
 ## How to Install
 
