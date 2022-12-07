@@ -21,6 +21,14 @@ To use ChatGPT Extension, follow these steps:
 2. Click the browser extension icon on the top right corner in your browser. Pin the extension if you want.
 3. Ask anything you want!
 
-## Feedback
+## Notes
 
-If you have any questions or feedback about ChatGPT Extension, please reach out to me on [Twitter](https://twitter.com/kazuki_sf_).
+According to OpenAI, ChatGPT is experiencing exceptionally high demand. They work on scaling our systems but I can't guarantee that ChatGPT keeps free and is open forever.
+
+## Credit
+
+All the credit goes to [OpenAI](http://openai.com/) and the teams behind ChatGPT!
+
+## Feedback & Support
+
+If you have any questions or feedback about ChatGPT Extension, please reach out to me on [Twitter](https://twitter.com/kazuki_sf_). Also, I'm building Glasp, a social web annotation tool to build your own AI models to write, search, and summarize better. If you're interested, please check out [Glasp](https://glasp.co/ai-summary).
