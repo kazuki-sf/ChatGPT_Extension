@@ -7,7 +7,11 @@
 </head>
 
 <body>
-    <iframe src="https://chat.openai.com/chat" frameborder="0" style="width: 400px;height:580px;"></iframe>
+    <div style="width: 400px;">
+        <div id="state" style="white-space: pre-line;">Loading ...</div>
+        <a hidden id="chatGPTLink" href="https://chat.openai.com/auth/login" target="_blank" rel="noopener noreferrer"><br><button type="button">Login</button></a>
+        <iframe hidden id="chatGPTiframe" src="https://chat.openai.com/chat" frameborder="0" style="width: 100%;height:580px;"></iframe>
+    </div>
 </body>
 
 </html>
